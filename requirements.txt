@@ -1,0 +1,16 @@
+detectron2.egg==info
+einops==0.8.0
+ftfy==6.2.0
+fvcore==0.1.5.post20221221
+ipdb==0.13.13
+matplotlib==3.8.2
+numpy==1.26.4
+opencv_python==4.8.1.78
+pandas==2.2.2
+Pillow==10.1.0
+Pillow==10.3.0
+pycocotools==2.0.7
+regex==2023.10.3
+seaborn==0.13.2
+timm==0.9.16
+tqdm==4.66.1

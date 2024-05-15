@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.pdf
+*.pth
+datasets/*
+output/*
+plot/
+sam_checkpoints/*
+test_plot/
+visualize/
+weights/*
+__pycache__/*
+*.pyc
