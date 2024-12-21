@@ -99,4 +99,15 @@ python train_net.py --num-gpus 8 \
 
 ## Citing VertFound
 
-Coming soon...
+```
+@InProceedings{Tan_VertFound_MICCAI2024,
+        author = { Tang, Jinzhou and Wu, Yinhao and Yao, Zequan and Li, Mingjie and Hong, Yuan and Yu, Dongdong and Gao, Zhifan and Chen, Bin and Zhao, Shen},
+        title = { { VertFound: Synergizing Semantic and Spatial Understanding for Fine-grained Vertebrae Classification via Foundation Models } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
+        year = {2024},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15012},
+        month = {October},
+        page = {763 -- 772}
+}
+```
